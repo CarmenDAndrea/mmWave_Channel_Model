@@ -1,4 +1,5 @@
-A Sparse Statistical MIMO Millimeter Wave Channel Model
+A Sparse Statistical MIMO Millimeter Wave Channel Model 
+(This Repository is still work in progress)
 ==========
 
 This code package is related to the following article:
