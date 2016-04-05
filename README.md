@@ -3,7 +3,7 @@ A Clustered Statistical MIMO Millimeter Wave Channel Model
 
 This code package is related to the following article:
 
-S.Buzzi, C.D'Andrea,"A Clustered Statistical MIMO Millimeter Wave Channel Model", submitted to IEEE Wireless Communications Letters
+S.Buzzi, C.D'Andrea,"A Clustered Statistical MIMO Millimeter Wave Channel Model[http://arxiv.org/pdf/1604.00648.pdf]", submitted to IEEE Wireless Communications Letters
 
 
 ## Abstract of the Article
