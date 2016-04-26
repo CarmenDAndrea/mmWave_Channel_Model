@@ -28,7 +28,7 @@ Zr=8; % number of receiver antennas on the z-axis of planar array
 Nr=Yr*Zr;
 Nt=Yt*Zt;
 
-f=28e09; % carrier frequency
+f=73e09; % carrier frequency
 
 % Positions of transmitter and receiver in 3-D plane
 TX_pos=[0 0 7];
