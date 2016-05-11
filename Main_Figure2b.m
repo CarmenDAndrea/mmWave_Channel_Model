@@ -1,7 +1,7 @@
 % This Matlab script can be used to generate Figure 2 (b) in:
 %
-% S. Buzzi, C. D'Andrea , "A Clustered Statistical MIMO Millimeter Wave
-% Channel Model", submitted to IEEE Wireless Communications Letters
+% S. Buzzi, C. D'Andrea , "On Clustered Statistical MIMO Millimeter Wave Channel Simulation",
+% submitted to IEEE Wireless Communications Letters
 %
 % In this Figure we show the CDFs of Spectral Efficiency in mmWave
 % Channel with channel response generate as in expression (1) varying
