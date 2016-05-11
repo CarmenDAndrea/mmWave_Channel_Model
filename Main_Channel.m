@@ -2,8 +2,8 @@
 % H_frequency_selective_LTI and H_frequency_selective_LTV respectively in
 % equations (1) and (6) in:
 %
-% S. Buzzi, C. D'Andrea , "A Clustered Statistical MIMO Millimeter Wave
-% Channel Model", submitted to IEEE Wireless Communications Letters
+% S. Buzzi, C. D'Andrea , "On Clustered Statistical MIMO Millimeter Wave Channel Simulation",
+% submitted to IEEE Wireless Communications Letters
 %
 % License: This code is licensed under the GPLv2 License.If you in any way 
 % use this code for research that results in publications, please cite our
