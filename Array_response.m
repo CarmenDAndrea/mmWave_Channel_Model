@@ -1,8 +1,8 @@
 function a=Array_response(Y,Z,phi,theta,kd)
 % This Function generates array response of a planar uniform array as in
 %
-% S. Buzzi, C. D'Andrea , "A Clustered Statistical MIMO Millimeter Wave
-% Channel Model",submitted to IEEE Wireless Communications Letters
+% S. Buzzi, C. D'Andrea , "On Clustered Statistical MIMO Millimeter Wave Channel Simulation",
+% submitted to IEEE Wireless Communications Letters
 %
 % License: This code is licensed under the GPLv2 License.If you in any way 
 % use this code for research that results in publications, please cite our
