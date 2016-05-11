@@ -1,8 +1,8 @@
 function [L]=Evaluation_Path_loss(path_length,f,scenario,LOS)
 % Function for the evaluation of the attenuation as in equation(2) in
 %
-% S. Buzzi, C. D'Andrea , "A Clustered Statistical MIMO Millimeter Wave
-% Channel Model",submitted to IEEE Wireless Communications Letters
+% S. Buzzi, C. D'Andrea , "On Clustered Statistical MIMO Millimeter Wave Channel Simulation",
+% submitted to IEEE Wireless Communications Letters
 %
 % The values used here are in Table I in the paper listed above.
 %
