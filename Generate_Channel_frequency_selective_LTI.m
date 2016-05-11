@@ -61,7 +61,7 @@ d_array=lambda/2; % distance between elements of planar array( we consider half-
 k=2*pi/lambda; % wavenumber
 kd=k*d_array;
 
-% standard deviations of Laplacian distribution ( we consider 5°) 
+% standard deviations of Laplacian distribution ( we consider 5Â°) 
 dev_standard_phit=5/180*pi;
 dev_standard_thetat=5/180*pi;
 dev_standard_phir=5/180*pi;
@@ -155,7 +155,7 @@ for ii=1:Ncl,
         phir_temp(ll,1)=Laplace_distribution(dev_standard_phir)+phir_pos_i;        
         
         % Calculation of the length of the path ii-ll 
-        c1l=abs(hr-ht)+r*sin(thetat_temp(ll,1));
+        c1l=ht-hr+r*sin(thetat_temp(ll,1));
         c2l=distance1-r*cos(thetat_temp(ll,1))*cos(phit_temp(ll,1));
         r_rxl=sqrt(c1l^2+c2l^2);
         r_temp(ll,1)=r+r_rxl;
