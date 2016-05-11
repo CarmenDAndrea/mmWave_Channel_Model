@@ -3,8 +3,8 @@ function H=Generate_Channel_frequency_selective_LTV(f,TX_pos,RX_pos,scenario,v_R
 % frequencies in case of linear time invariant channel. This function
 % refers to equation (6) in:
 %
-% S. Buzzi, C. D'Andrea , "A Clustered Statistical MIMO Millimeter Wave
-% Channel Model",submitted to IEEE Wireless Communications Letters
+% S. Buzzi, C. D'Andrea , "On Clustered Statistical MIMO Millimeter Wave Channel Simulation",
+% submitted to IEEE Wireless Communications Letters
 %
 % License: This code is licensed under the GPLv2 License.If you in any way 
 % use this code for research that results in publications, please cite our
