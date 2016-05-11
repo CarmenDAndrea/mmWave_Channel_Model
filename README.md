@@ -1,4 +1,4 @@
-A Clustered Statistical MIMO Millimeter Wave Channel Model 
+On Clustered Statistical MIMO Millimeter Wave Channel Simulation
 ==========
 
 This code package is related to the following article:
