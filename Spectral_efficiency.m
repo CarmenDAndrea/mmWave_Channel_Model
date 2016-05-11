@@ -3,8 +3,8 @@ function [ SE ] = Spectral_efficiency( H,Nr,Nt, Pt_dB, M, noise_variance,h_rx,N,
 % signaling, of a MIMO system in which we transmit M symbols simultaneously 
 % on the channel with channel matrix constructed as in equation (1) in:
 %
-% S. Buzzi, C. D'Andrea , "A Clustered Statistical MIMO Millimeter Wave
-% Channel Model"
+% S. Buzzi, C. D'Andrea , "On Clustered Statistical MIMO Millimeter Wave Channel Simulation",
+% submitted to IEEE Wireless Communications Letters
 %
 % For details on system model used in this function see the Section IV in
 % the article listed above.
