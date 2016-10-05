@@ -98,7 +98,7 @@ elseif (scenario==3 || scenario==4)
     if d<1.2
         P_LOS=1;
     elseif d>2 && d<6.5
-        P_LOS=exp(-(d-1.3)/4.7);
+        P_LOS=exp(-(d-1.2)/4.7);
     elseif d>=6.5
         P_LOS=0.32*exp(-(d-6.5)/32.6);
     end
