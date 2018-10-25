@@ -61,7 +61,7 @@ d_array=lambda/2; % distance between elements of planar array( we consider half-
 k=2*pi/lambda; % wavenumber
 kd=k*d_array;
 
-% standard deviations of Laplacian distribution ( we consider 5°) 
+% standard deviations of Laplacian distribution ( we consider 5Â°) 
 dev_standard_phit=5/180*pi;
 dev_standard_thetat=5/180*pi;
 dev_standard_phir=5/180*pi;
@@ -82,7 +82,8 @@ z=RX_pos(3)-TX_pos(3);
 % Polar Coordinate
 
 d=sqrt(x^2+y^2+z^2); % distance between transmitter and receiver
-theta_r=atan(z/d);
+d2D=sqrt(x^2+y^2); 
+theta_r=atan(z/d2D);
 phi_r=atan(y/x);
 
 
