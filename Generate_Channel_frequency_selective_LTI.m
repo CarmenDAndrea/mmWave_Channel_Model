@@ -185,7 +185,7 @@ max_delay=max(max_delay_vector);
 PP=ceil(max_delay/(Tc) + length(a)*Ts/Tc*100); % definition of temporary length for the matrix H_temp
 H_temp=zeros(Nr,Nt,PP);
 
-%% Consideration of LOS path as in equation (10) in the article listed above
+%% Consideration of LOS path as in equation (1) in the article listed above
 u=rand;    
 if u<=P_LOS
     psi=rand*2*pi; % uniform random variable in [0,2*pi]
